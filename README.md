@@ -25,6 +25,7 @@ In this script, you need to replace the SMTP server configuration details with y
 
 > password
 
+BETA VERSION > https://t.me/techiebrain
 
 # USAGE
 
