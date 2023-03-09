@@ -1,7 +1,7 @@
 # email-bulk-sender
 FREE VERSION
 
-FOR BETA VERSION > https://t.me/techiebrain
+FOR BETA VERSION > https://t.me/techiegenius
 
 ![mailpic](https://user-images.githubusercontent.com/125784563/221349763-7949471c-7262-4d16-90a7-d16c80105313.png)
 
@@ -11,7 +11,7 @@ USE IT CAREFULLY DUE TO SENDING LIMITS
 
 BETA VERSION HAS UNLIMITED SENDING OUT RATE
 
-MESSAGE > https://t.me/techiebrain
+MESSAGE > https://t.me/techiegenius
 
 # CONFIGURATION
 
@@ -25,7 +25,7 @@ In this script, you need to replace the SMTP server configuration details with y
 
 > password
 
-BETA VERSION > https://t.me/techiebrain
+BETA VERSION > https://t.me/techiegenius
 
 # USAGE
 
@@ -43,7 +43,7 @@ You need to create a list of email addresses you want to send emails to and iter
 
 IF YOU ARE NEW TO PYTHON OR WANT AN EASY METHOD
 
-GET THE BETA VERSION > https://t.me/techiebrain
+GET THE BETA VERSION > https://t.me/techiegenius
 
 # LEGAL DISCLAIMER
 
